@@ -28,6 +28,8 @@
   "dependencies": {},
   "devDependencies": {
     "prettier": "^2.4.1",
-    "typescript": "^4.4.4"
+    "typescript": "^4.4.4",
+    "@hummer/tenon-store": "^1.0.0",
+    "@hummer/tenon-vue": "^1.0.0"
   }
 }
